@@ -9,7 +9,8 @@ http://ubuntu.mirrors.proxad.net/13.04/ubuntu-13.04-server-amd64.iso
 http://mirror.ovh.net/ubuntu-releases/13.04/ubuntu-13.04-server-amd64.iso
 http://mirror.anl.gov/pub/ubuntu-iso/CDs/13.04/ubuntu-13.04-server-amd64.iso
 http://mirror.pnl.gov/releases/13.04/ubuntu-13.04-server-amd64.iso
-http://mirror.us.leaseweb.net/ubuntu-releases/13.04/ubuntu-13.04-desktop-amd64.iso"
+http://mirror.us.leaseweb.net/ubuntu-releases/13.04/ubuntu-13.04-desktop-amd64.iso
+https://dl.dropboxusercontent.com/s/lzwn5uq0lyicuax/ubuntu-12.04.1-server-amd64.iso?token_hash=AAE-_ciH8FEGTMzQq3IdHARDBKOGYnL3D_8_ZMfpPvBsSQ&dl=1"
 
 touch ${OUT}
 for url in ${URLS}; do
